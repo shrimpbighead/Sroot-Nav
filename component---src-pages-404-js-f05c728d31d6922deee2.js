@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{204:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),c=t(203),r=t(202);n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"页面不存在"}),l.a.createElement("h1",null,"页面不存在"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-f05c728d31d6922deee2.js.map
