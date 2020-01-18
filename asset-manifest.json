@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Sroot-Nav/static/css/main.88efaf5c.chunk.css",
+    "main.js": "/Sroot-Nav/static/js/main.60d6cae5.chunk.js",
+    "main.js.map": "/Sroot-Nav/static/js/main.60d6cae5.chunk.js.map",
+    "runtime-main.js": "/Sroot-Nav/static/js/runtime-main.6896f105.js",
+    "runtime-main.js.map": "/Sroot-Nav/static/js/runtime-main.6896f105.js.map",
+    "static/js/2.0f7f5b0b.chunk.js": "/Sroot-Nav/static/js/2.0f7f5b0b.chunk.js",
+    "static/js/2.0f7f5b0b.chunk.js.map": "/Sroot-Nav/static/js/2.0f7f5b0b.chunk.js.map",
+    "index.html": "/Sroot-Nav/index.html",
+    "precache-manifest.eb769c273fb71ac21011adae2c392bf5.js": "/Sroot-Nav/precache-manifest.eb769c273fb71ac21011adae2c392bf5.js",
+    "service-worker.js": "/Sroot-Nav/service-worker.js",
+    "static/css/main.88efaf5c.chunk.css.map": "/Sroot-Nav/static/css/main.88efaf5c.chunk.css.map",
+    "static/js/2.0f7f5b0b.chunk.js.LICENSE": "/Sroot-Nav/static/js/2.0f7f5b0b.chunk.js.LICENSE",
+    "static/media/i.png": "/Sroot-Nav/static/media/i.2298261f.png",
+    "static/media/qrcode-alipay.png": "/Sroot-Nav/static/media/qrcode-alipay.379d7c49.png",
+    "static/media/qrcode-wechat.png": "/Sroot-Nav/static/media/qrcode-wechat.c3c01667.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6896f105.js",
+    "static/js/2.0f7f5b0b.chunk.js",
+    "static/css/main.88efaf5c.chunk.css",
+    "static/js/main.60d6cae5.chunk.js"
+  ]
+}
