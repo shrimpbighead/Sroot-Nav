@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/Sroot-Nav/static/css/main.1e78d3f3.chunk.css",
-    "main.js": "/Sroot-Nav/static/js/main.79ba524a.chunk.js",
+    "main.css": "/Sroot-Nav/static/css/main.336b3edb.chunk.css",
+    "main.js": "/Sroot-Nav/static/js/main.a980ec06.chunk.js",
     "runtime-main.js": "/Sroot-Nav/static/js/runtime-main.6896f105.js",
     "static/js/2.0f7f5b0b.chunk.js": "/Sroot-Nav/static/js/2.0f7f5b0b.chunk.js",
     "index.html": "/Sroot-Nav/index.html",
-    "precache-manifest.0b76601da461245be3b1bc5010286e0c.js": "/Sroot-Nav/precache-manifest.0b76601da461245be3b1bc5010286e0c.js",
+    "precache-manifest.008599acdacfa3664ddd70da7b8e213d.js": "/Sroot-Nav/precache-manifest.008599acdacfa3664ddd70da7b8e213d.js",
     "service-worker.js": "/Sroot-Nav/service-worker.js",
     "static/js/2.0f7f5b0b.chunk.js.LICENSE": "/Sroot-Nav/static/js/2.0f7f5b0b.chunk.js.LICENSE",
+    "static/media/blogger.svg": "/Sroot-Nav/static/media/blogger.8c40640e.svg",
     "static/media/i.png": "/Sroot-Nav/static/media/i.2298261f.png",
     "static/media/logo.svg": "/Sroot-Nav/static/media/logo.5d5d9eef.svg",
+    "static/media/mail.svg": "/Sroot-Nav/static/media/mail.36642eac.svg",
     "static/media/qrcode-alipay.png": "/Sroot-Nav/static/media/qrcode-alipay.379d7c49.png",
-    "static/media/qrcode-wechat.png": "/Sroot-Nav/static/media/qrcode-wechat.c3c01667.png"
+    "static/media/qrcode-wechat.png": "/Sroot-Nav/static/media/qrcode-wechat.c3c01667.png",
+    "static/media/weibo.svg": "/Sroot-Nav/static/media/weibo.3edf9b94.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6896f105.js",
     "static/js/2.0f7f5b0b.chunk.js",
-    "static/css/main.1e78d3f3.chunk.css",
-    "static/js/main.79ba524a.chunk.js"
+    "static/css/main.336b3edb.chunk.css",
+    "static/js/main.a980ec06.chunk.js"
   ]
 }
